@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileDownload</string>
+    <string name="must_update_app">非常抱歉，您需要更新应用才能继续使用</string>
+</resources>
